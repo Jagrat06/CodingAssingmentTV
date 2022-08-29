@@ -9,6 +9,7 @@ Below are the instruction to execute the TCs
 # 2 Open TestRunner Class, right click on the body and run as Junit
 # 3 Right click on feature file named as "Assigment" and click on run
 # 4 Can be run from commandline as well
+# note please change the chrome driver path as per your system. in step defination file
 
 #####################################################################
 
